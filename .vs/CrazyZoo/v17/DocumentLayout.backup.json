@@ -3,52 +3,60 @@
   "WorkspaceRootPath": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\models\\racoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\models\\racoon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\models\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\models\\monkey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\crazyzoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\crazyzoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\interfaces\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\interfaces\\iflyable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\domain\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\domain\\enclosure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\interfaces\\icrazyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\interfaces\\icrazyaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\models\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\mvvm\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\mvvm\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\mvvm\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\utils\\namegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\utils\\namegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\crazyzoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\crazyzoo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\data\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\data\\inmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|c:\\users\\krasa\\source\\repos\\crazyzoo\\crazyzoo\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A950F95-116A-4C93-AB18-2E66C907F3AC}|CrazyZoo\\CrazyZoo.csproj|solutionrelative:crazyzoo\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,54 +66,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NameGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Utils\\NameGenerator.cs",
+              "RelativeDocumentMoniker": "CrazyZoo\\Utils\\NameGenerator.cs",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Utils\\NameGenerator.cs",
+              "RelativeToolTip": "CrazyZoo\\Utils\\NameGenerator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T20:03:43.906Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Monkey.cs",
-              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Monkey.cs",
-              "RelativeDocumentMoniker": "CrazyZoo\\Models\\Monkey.cs",
-              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Monkey.cs",
-              "RelativeToolTip": "CrazyZoo\\Models\\Monkey.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\MVVM\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "CrazyZoo\\MVVM\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\MVVM\\MainViewModel.cs",
+              "RelativeToolTip": "CrazyZoo\\MVVM\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T18:59:51.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T19:36:13.129Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Racoon.cs",
-              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Racoon.cs",
-              "RelativeDocumentMoniker": "CrazyZoo\\Models\\Racoon.cs",
-              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Racoon.cs",
-              "RelativeToolTip": "CrazyZoo\\Models\\Racoon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\MVVM\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "CrazyZoo\\MVVM\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\MVVM\\RelayCommand.cs",
+              "RelativeToolTip": "CrazyZoo\\MVVM\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T18:59:44.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T19:35:33.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "CrazyZoo\\Data\\IRepository.cs",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Data\\IRepository.cs",
+              "RelativeToolTip": "CrazyZoo\\Data\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:32:04.002Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Dog.cs",
-              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Dog.cs",
-              "RelativeDocumentMoniker": "CrazyZoo\\Models\\Dog.cs",
-              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Dog.cs",
-              "RelativeToolTip": "CrazyZoo\\Models\\Dog.cs",
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Events.cs",
+              "RelativeDocumentMoniker": "CrazyZoo\\Models\\Events.cs",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Events.cs",
+              "RelativeToolTip": "CrazyZoo\\Models\\Events.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T18:59:37.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T19:30:24.926Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Cat.cs",
               "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Cat.cs",
               "RelativeDocumentMoniker": "CrazyZoo\\Models\\Cat.cs",
@@ -113,25 +138,35 @@
               "RelativeToolTip": "CrazyZoo\\Models\\Cat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T18:59:29.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T18:59:29.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Animal.cs",
-              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Animal.cs",
-              "RelativeDocumentMoniker": "CrazyZoo\\Models\\Animal.cs",
-              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Animal.cs",
-              "RelativeToolTip": "CrazyZoo\\Models\\Animal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "CrazyZoo.csproj",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\CrazyZoo.csproj",
+              "RelativeDocumentMoniker": "CrazyZoo\\CrazyZoo.csproj",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\CrazyZoo.csproj",
+              "RelativeToolTip": "CrazyZoo\\CrazyZoo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T18:52:30.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Bird.cs",
+              "RelativeDocumentMoniker": "CrazyZoo\\Models\\Bird.cs",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Bird.cs",
+              "RelativeToolTip": "CrazyZoo\\Models\\Bird.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T18:59:23.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T19:04:41.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "ICrazyAction.cs",
               "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Interfaces\\ICrazyAction.cs",
               "RelativeDocumentMoniker": "CrazyZoo\\Interfaces\\ICrazyAction.cs",
@@ -139,63 +174,60 @@
               "RelativeToolTip": "CrazyZoo\\Interfaces\\ICrazyAction.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T18:54:10.141Z",
+              "WhenOpened": "2025-11-02T18:54:10.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enclosure.cs",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Domain\\Enclosure.cs",
+              "RelativeDocumentMoniker": "CrazyZoo\\Domain\\Enclosure.cs",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Domain\\Enclosure.cs",
+              "RelativeToolTip": "CrazyZoo\\Domain\\Enclosure.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T19:33:42.32Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IFlyable.cs",
-              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Interfaces\\IFlyable.cs",
-              "RelativeDocumentMoniker": "CrazyZoo\\Interfaces\\IFlyable.cs",
-              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Interfaces\\IFlyable.cs",
-              "RelativeToolTip": "CrazyZoo\\Interfaces\\IFlyable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "InMemoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Data\\InMemoryRepository.cs",
+              "RelativeDocumentMoniker": "CrazyZoo\\Data\\InMemoryRepository.cs",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Data\\InMemoryRepository.cs",
+              "RelativeToolTip": "CrazyZoo\\Data\\InMemoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T18:53:53.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T19:32:35.427Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CrazyZoo",
-              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\CrazyZoo.csproj",
-              "RelativeDocumentMoniker": "CrazyZoo\\CrazyZoo.csproj",
-              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\CrazyZoo.csproj",
-              "RelativeToolTip": "CrazyZoo\\CrazyZoo.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-02T18:52:30.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "CrazyZoo\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\MainWindow.xaml",
-              "RelativeToolTip": "CrazyZoo\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-02T18:40:14.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Bird.cs",
-              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Bird.cs",
-              "RelativeDocumentMoniker": "CrazyZoo\\Models\\Bird.cs",
-              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Bird.cs",
-              "RelativeToolTip": "CrazyZoo\\Models\\Bird.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CrazyZoo\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CrazyZoo\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T19:04:41.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T18:40:07.25Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "CrazyZoo\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\Models\\Animal.cs",
+              "RelativeToolTip": "CrazyZoo\\Models\\Animal.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T18:59:23.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "CrazyZoo\\AssemblyInfo.cs",
@@ -203,21 +235,7 @@
               "RelativeToolTip": "CrazyZoo\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T18:45:38.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "CrazyZoo\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\krasa\\source\\repos\\CrazyZoo\\CrazyZoo\\MainWindow.xaml.cs",
-              "RelativeToolTip": "CrazyZoo\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAAAuwB0AAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-02T18:40:07.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-02T18:45:38.67Z"
             }
           ]
         }
