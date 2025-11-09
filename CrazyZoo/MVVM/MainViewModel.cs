@@ -1,14 +1,15 @@
 ﻿using CrazyZoo.Data;
 using CrazyZoo.Domain;
 using CrazyZoo.Interfaces;
+using CrazyZoo.Logging;
 using CrazyZoo.Models;
+using CrazyZoo.Utils;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Timers;
-using CrazyZoo.Utils;
 
 
 namespace CrazyZoo.MVVM
@@ -19,10 +20,11 @@ namespace CrazyZoo.MVVM
         public ObservableCollection<string> Log { get; } = new();
         public ObservableCollection<string> StatsLines { get; } = new();
 
-        private readonly IRepository<Animal> _repo;
+        private readonly IAnimalRepository _repo;
         private readonly Enclosure<Animal> _enclosure;
         private readonly Random _rnd = new();
         private readonly System.Timers.Timer _nightTimer;
+        private readonly ILogger _logger;
 
         private Animal? _selected;
         public Animal? SelectedAnimal
@@ -40,16 +42,22 @@ namespace CrazyZoo.MVVM
         public RelayCommand RemoveCmd { get; }
         public RelayCommand DropFoodCmd { get; }
 
-        public MainViewModel(IRepository<Animal> repo, Enclosure<Animal> enclosure)
+        public MainViewModel(IAnimalRepository repo, Enclosure<Animal> enclosure, ILogger logger)
         {
             _repo = repo;
             _enclosure = enclosure;
+            _logger = logger;
 
-            _enclosure.AnimalJoinedInSameEnclosure += (_, e) => LogAdd($"Uus loom voljeeris: {e.Animal.Describe()}");
+            _enclosure.AnimalJoinedInSameEnclosure += (_, e) =>
+            {
+                if (!_isLoading)
+                    LogAdd($"Uus loom voljeeris: {e.Animal.Describe()}");
+            };
             _enclosure.FoodDropped += (_, e) => LogAdd($"Toit kukkus: {e.Food}");
             _enclosure.NightEvent += (_, __) => OnNight();
 
-            Seed();
+            //Seed();
+            LoadAnimalsFromDatabase();
 
             MakeSoundCmd = new RelayCommand(_ => { if (SelectedAnimal != null) LogAdd(SelectedAnimal.MakeSound()); });
             FeedCmd = new RelayCommand(_ => {
@@ -86,24 +94,45 @@ namespace CrazyZoo.MVVM
             UpdateStats();
         }
 
-        private void Seed()
-        {
-            var init = new Animal[] {
-            new Cat { Name = "Marsik", Age = 2 },
-            new Dog { Name = "Lucky",  Age = 4 },
-            new Bird{ Name = "Gosha", Age = 1 },
-            new Raccoon { Name = "Felix", Age = 3 },
-            new Monkey  { Name = "Albert", Age = 5 }
-        };
+        //private void Seed()
+        //{
+        //    var init = new Animal[] {
+        //    new Cat { Name = "Marsik", Age = 2 },
+        //    new Dog { Name = "Lucky",  Age = 4 },
+        //    new Bird{ Name = "Gosha", Age = 1 },
+        //    new Raccoon { Name = "Felix", Age = 3 },
+        //    new Monkey  { Name = "Albert", Age = 5 }
+        //};
 
-            foreach (var a in init)
+        //    foreach (var a in init)
+        //    {
+        //        _repo.Add(a);
+        //        Animals.Add(a);
+        //        _enclosure.Add(a);
+        //    }
+        //    SelectedAnimal = Animals.FirstOrDefault();
+        //}
+
+        private bool _isLoading = false;
+
+        private void LoadAnimalsFromDatabase()
+        {
+            _isLoading = true;
+
+            Animals.Clear();
+            var animals = _repo.GetAll();
+            foreach (var a in animals)
             {
-                _repo.Add(a);
                 Animals.Add(a);
                 _enclosure.Add(a);
             }
+
+            _isLoading = false;
+
             SelectedAnimal = Animals.FirstOrDefault();
+            _logger.Log($"Loaded {Animals.Count} animals from database.");
         }
+
 
         private void LogAdd(string line)
         {
@@ -111,6 +140,7 @@ namespace CrazyZoo.MVVM
             {
                 Log.Add(line);
             });
+            _logger.Log(line);
         }
 
         private void DoCrazy()

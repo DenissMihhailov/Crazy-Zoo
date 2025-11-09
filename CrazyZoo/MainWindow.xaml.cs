@@ -3,6 +3,7 @@ using CrazyZoo.Domain;
 using CrazyZoo.Interfaces;
 using CrazyZoo.Models;
 using CrazyZoo.MVVM;
+using Microsoft.Extensions.DependencyInjection;
 using System.Collections.ObjectModel;
 using System.Text;
 using System.Windows;
@@ -22,8 +23,7 @@ namespace CrazyZoo
         public MainWindow()
         {
             InitializeComponent();
-            DataContext = new MainViewModel(new InMemoryRepository<Animal>(),
-                                            new Enclosure<Animal>());
+            DataContext = App.Services.GetRequiredService<MainViewModel>();
         }
     }
 }
