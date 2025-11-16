@@ -12,20 +12,20 @@ public class XmlLogger : ILogger
 {
     private readonly string _path = "log.xml";
 
+    private static readonly object _lock = new();
+
     public void Log(string message)
     {
-        XDocument doc;
+        lock (_lock)
+        {
+            var doc = XDocument.Load(_path);
 
-        if (File.Exists(_path))
-            doc = XDocument.Load(_path);
-        else
-            doc = new XDocument(new XElement("Logs"));
+            var entry = new XElement("Log",
+                new XElement("Time", DateTime.Now),
+                new XElement("Message", message));
 
-        var entry = new XElement("Log",
-            new XElement("Time", DateTime.Now),
-            new XElement("Message", message));
-
-        doc.Root!.Add(entry);
-        doc.Save(_path);
+            doc.Root.Add(entry);
+            doc.Save(_path);
+        }
     }
 }

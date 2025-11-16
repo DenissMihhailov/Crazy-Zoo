@@ -214,7 +214,7 @@ namespace CrazyZoo.MVVM
 
         private void OnNight()
         {
-            foreach (var a in Animals)
+            foreach (var a in Animals.ToList())
             {
                 switch (a)
                 {

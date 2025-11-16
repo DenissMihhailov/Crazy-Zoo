@@ -9,6 +9,8 @@ namespace CrazyZoo.Models
 {
     public abstract class Animal : INotifyPropertyChanged
     {
+        public int Id { get; set; }
+
         private string _name = "Nimetu";
         public string Name
         {

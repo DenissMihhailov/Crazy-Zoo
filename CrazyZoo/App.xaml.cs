@@ -3,6 +3,7 @@ using CrazyZoo.Domain;
 using CrazyZoo.Logging;
 using CrazyZoo.Models;
 using CrazyZoo.MVVM;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Windows;
@@ -17,17 +18,19 @@ namespace CrazyZoo
         {
             var services = new ServiceCollection();
 
-            services.AddSingleton<ILogger, JsonLogger>();
-            // services.AddSingleton<ILogger, XmlLogger>();
+            services.AddSingleton<ILogger, XmlLogger>();
 
-            services.AddSingleton<IAnimalRepository, SqlAnimalRepository>();
-            // services.AddSingleton<IRepository<Animal>, InMemoryRepository<Animal>>();
+            services.AddDbContext<ZooContext>(opt =>
+                opt.UseSqlite("Data Source=zoo.db"));
+
+            services.AddScoped<IAnimalRepository, EfAnimalRepository>();
 
             services.AddSingleton<Enclosure<Animal>>();
             services.AddSingleton<MainViewModel>();
 
             Services = services.BuildServiceProvider();
         }
+
 
         protected override void OnStartup(StartupEventArgs e)
         {
